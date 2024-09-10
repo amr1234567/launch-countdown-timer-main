@@ -7,7 +7,7 @@ import starsImage from "/images/bg-stars.svg";
 import hillsImage from "/images/pattern-hills.svg";
 
 function App() {
-  const finalDate = new Date("2024-9-10");
+  const finalDate = new Date("2024-12-10");
   const [date, setDate] = useState({
     seconds: 0,
     minutes: 0,
